@@ -2,7 +2,7 @@
 
 🚀 I'm currently working on ML Projects.  
 📖 I'm currently learning DSA.  
-📫 How to reach me: [Email](mailto:dakkatameghanareddy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/meghanareddy236/)  
+📫 How to reach me: 📩 Email: dakkatameghanareddy@gmail.com| [LinkedIn](https://www.linkedin.com/in/meghanareddy236/)  
 🌟 Pronouns: She/Her 
 
 ## 🛠 Languages and Tools:
