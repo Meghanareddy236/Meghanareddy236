@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hello, I'm Meghana!</h1>
+<h1 align="center">👋 Hello, I'm Meghana Reddy!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A5F7&center=true&vCenter=true&width=435&lines=ML+Enthusiast+%7C+Aspiring+Software+Engineer;Passionate+about+AI+%7C+Data+Science;Lifelong+Learner+%7C+Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A5F7&center=true&vCenter=true&width=435&lines=Student+at+CMR+Institute+of+Technology;Aspiring+to+become+AI+ML+Engineer;Working+on+Self+Improvement" alt="Typing SVG">
 </p>
+
 
 ---
 
@@ -35,13 +36,11 @@
 ### 📌 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/meghanareddy236/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:dakkatameghanareddy@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-### 🔥 **Fun Fact**
-💡 *Code never lies, but comments sometimes do!* 😆
+💡Believe in Yourself !!
 
 
 
