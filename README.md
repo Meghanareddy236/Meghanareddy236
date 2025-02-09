@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Meghana Reddy!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A5F7&center=true&vCenter=true&width=435&lines=Student+at+CMR+Institute+of+Technology;Aspiring+to+become+AI+ML+Engineer;Working+on+Self+Improvement" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A5F7&center=true&vCenter=true&width=435&lines=SStudent+at+CMR+Institute+of+Technology;Aspiring+to+become+AI+ML+Engineer;Working+on+Self+Improvement" alt="Typing SVG">
 </p>
 
 
