@@ -1,9 +1,8 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Meghana! 👋
 
-🚀 I'm currently working on [your current project].  
-📖 I'm currently learning [technologies you're learning].  
-💬 Ask me about [topics you're knowledgeable in].  
-📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+🚀 I'm currently working on ML Projects.  
+📖 I'm currently learning DSA.  
+ 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/meghanareddy236/)  
 🌟 Pronouns: He/Him | She/Her | They/Them  
 
 ## 🛠 Languages and Tools:
@@ -15,10 +14,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meghanareddy236&show_icons=true&theme=radical)
 
-## 🏆 Achievements:
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=10)
+)
 
 
 
